@@ -5,7 +5,7 @@ Example to show you how you can execute the scripts
 ```
 $ rm -rf myfile.txt
 ```
-### Switches
+#### Switches
 -r remove
 -f force
 ## Setting up Environment
