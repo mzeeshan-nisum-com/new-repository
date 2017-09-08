@@ -6,6 +6,6 @@ Example to show you how you can execute the scripts
 $ rm -rf myfile.txt
 ```
 ### Switches
-* -r remove
-* -f force
+-r remove
+-f force
 ## Setting up Environment
