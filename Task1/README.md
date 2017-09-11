@@ -1,5 +1,5 @@
 # Installation
-This will guide you through all the way to setup you tasks
+This will guide you through all the way to setup your task
 ## Executing Scripts
 Example to show you how you can execute the scripts
 ```
